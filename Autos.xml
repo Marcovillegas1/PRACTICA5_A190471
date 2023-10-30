@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/"C:\Users\junio\OneDrive\TAREAS MARCOS\UNACH\9no Semestre\SERVICIOS WEB\Practica5_A190471\Autos.xsl"?>
+<autos>
+  <auto>
+    <modelo>Jetta</modelo>
+    <fabricante>Volkswagen</fabricante>
+    <ano>2009</ano>
+  </auto>
+  <auto>
+    <modelo>Ram</modelo>
+    <fabricante>Dodge</fabricante>
+    <ano>2006</ano>
+  </auto>
+  <auto>
+    <modelo>Corsa</modelo>
+    <fabricante>Chevrolet</fabricante>
+    <ano>2008</ano>
+  </auto>
+  <auto>
+    <modelo>Trans Am</modelo>
+    <fabricante>Pontiac</fabricante>
+    <ano>2000</ano>
+  </auto>
+</autos>
